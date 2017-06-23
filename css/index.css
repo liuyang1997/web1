@@ -1,0 +1,41 @@
+.denglu{
+	height:50px;
+}
+.sousuokuang{
+	height:30px;
+}
+.sousuoxiaokuang{
+	margin:0 auto;
+	height:30px;
+	width:200px;
+}
+.baikuangkuang{
+	float:left;
+	width:160px;
+	height:30px;
+}
+.sousuoanniukuang{
+	float:left;
+	width:20px;
+	height:20px;
+}
+.baikuang{
+	height:20px;
+	width:160px;
+}
+.anniu{
+	height:26px;
+	width:40px;
+}
+.remendongman{
+	width:300px;
+	padding-left: 200px;
+	float: left;
+
+}
+.remen{
+	float: left;
+}
+.gengxin{
+	float: right;
+}
